@@ -2,3 +2,5 @@
 My data analytics projects
 
 ## My personal projects
+
+**Contact me** : promiseproulx@gmail.com
